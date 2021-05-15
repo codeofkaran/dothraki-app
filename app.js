@@ -16,4 +16,3 @@ function clickHandler(){
 };
 
 button.addEventListener("click", clickHandler);
-
